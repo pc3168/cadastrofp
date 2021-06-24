@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>configuracao do banco de dados postgres</comment>
+<entry key="security">0</entry>
+<entry key="id">3</entry>
+<entry key="port">5432</entry>
+<entry key="user">postgres</entry>
+<entry key="url">jdbc:postgresql://</entry>
+<entry key="driverJdbc">org.postgresql.Driver</entry>
+<entry key="host">10.102.0.170</entry>
+<entry key="pass">NATUS3532673308</entry>
+<entry key="database">pdv</entry>
+<entry key="atualiza">\\10.0.0.11\atualizador\cadastrofp</entry>
+<entry key="filial">10</entry>
+</properties>
